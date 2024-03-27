@@ -1,0 +1,42 @@
+.company-post-pg {
+    background-color: #2D81FF;
+    min-height: calc(100vh - 62px)
+}
+
+.company-post-form {
+    max-width: 95%;
+}
+
+.post-btns {
+    width: 10rem;
+    margin-right: 1rem;
+}
+
+@media screen and (min-width: 761px) {
+    .company-post-pg {
+        min-height: calc(100vh - 71px);
+    }
+
+    .company-post-form {
+        width: 95%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .company-post-form {
+        width: 85%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .company-post-form {
+        width: 75%;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .company-post-form {
+        width: 55%;
+    }
+
+}

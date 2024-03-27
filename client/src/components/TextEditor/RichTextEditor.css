@@ -1,0 +1,9 @@
+/* Set height for quill */
+.rich-text-editor .ql-container {
+    height: 20rem;
+}
+
+/* Set editor to have same font size as bootstrap */
+.ql-editor {
+    font-size: 1rem;
+}
