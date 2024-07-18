@@ -78,3 +78,4 @@ npm run dev
 ```
 control + c
 ```
+[![Watch the video](https://img.youtube.com/vi/e59xUZAtcxI/maxresdefault.jpg)](https://youtu.be/e59xUZAtcxI)
